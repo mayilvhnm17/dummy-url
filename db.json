@@ -1,0 +1,24 @@
+{
+    "profile_data":[
+        {"id":1,
+            "name":"Tanjiro",
+            "Occupation":"Samurai",
+            "mobile_no":"+916565"
+        },
+        {"id":2,
+            "name":"Midoriya",
+            "Occupation":"Hero",
+            "mobile_no":"+9164445"
+        },
+        {"id":3,
+            "name":"Naruto",
+            "Occupation":"Ninja",
+            "mobile_no":"+9161446335"
+        },
+        {"id":4,
+            "name":"Luffy",
+            "Occupation":"Pirate",
+            "mobile_no":"+91455245"
+        }
+    ]
+}
